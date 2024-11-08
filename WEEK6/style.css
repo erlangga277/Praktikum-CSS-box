@@ -1,0 +1,32 @@
+.h1 {
+    text-align: center;
+    color: darkcyan;
+}
+
+.container {
+    display: flex;
+    border-color: aqua black red green;
+}
+
+.item-1 {
+    background-color: forestgreen;
+}
+
+.item-2 {
+    background-color:rebeccapurple;
+}
+
+.item-3 {
+    background-color:palevioletred;
+}
+
+.item-4 {
+    background-color: skyblue;
+}
+
+.kotak {
+    height: 670px;
+    width: 200px;
+    border: solid;
+    margin-right: 100px;
+}
